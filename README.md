@@ -4,4 +4,4 @@ This file has some Pandas operation done on  grades dataset.
 
 The EDA was performed on the dataset "Bestseller book Category" on amazon.
 
-Analysis on Price ,Ratings, Year of Sale and Genre has been done.
+Analysis on Price ,Ratings, Year of release and Genre has been done.
